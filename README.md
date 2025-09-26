@@ -68,7 +68,7 @@ npm install -g matlab-mcp-server
 Or clone the repository and build it yourself:
 
 ```bash
-git clone https://github.com/username/matlab-mcp-server.git
+git clone https://github.com/WilliamCloudQi/matlab-mcp-server.git
 cd matlab-mcp-server
 npm install
 npm run build
